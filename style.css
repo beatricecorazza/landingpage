@@ -3,9 +3,6 @@
 	src: url(font/dosis/Dosis-Light.otf);
 }
 
-html {
-	align-items: center;
-}
 
 body {
 	background-color: #CCE6F4;
@@ -13,7 +10,8 @@ body {
 	font-size: 25px;
 	font-family: dosis;
 	font-weight: lighter;
-	text-align: center;
+		text-align: center;
+
 }
 
 
@@ -53,6 +51,10 @@ h2 {
 a {
 	text-decoration: none;
 
+}
+
+footer {
+	text-align: center;
 }
 
 a:hover{
